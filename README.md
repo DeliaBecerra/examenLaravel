@@ -1,6 +1,6 @@
 
 # examen Laravel
-# Tienda de Computadoras en Isinuta Villa 
+# Tienda de Computadoras en Isinuta Villa Tunari
 # Materia: Taller de Aplicaciones en Internet
 # Docente: Ing. Victor Hugo Perez
 # Delia Becerra
