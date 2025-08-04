@@ -1,5 +1,5 @@
 
-# examenLaravel
+# examen Laravel
 # Tienda de Computadoras
 # Materia: Taller de Aplicaciones en Internet
 # Docente: Ing. Victor Hugo Perez
